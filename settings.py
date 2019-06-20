@@ -56,15 +56,4 @@ setup(
         'Django>=1.11', 'prices>=1.0.0', 'requests', 'jsonfield'],
     platforms=['any'],
     zip_safe=False)
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
