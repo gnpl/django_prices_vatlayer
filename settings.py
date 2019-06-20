@@ -1,22 +1,4 @@
-Skip to content
- 
-Search or jump to…
 
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@holyspice 
-140
-23
-7 6 mirumee/django-prices-vatlayer
- Code  Issues 0  Pull requests 0  Projects 0  Wiki  Security  Insights
-django-prices-vatlayer/setup.py
-@maarcingebala maarcingebala Bump version to 1.0.2
-865607b on 29 Aug 2018
-@szewczykmira @rafalp @maarcingebala @mad-anne
-Executable File  39 lines (35 sloc)  1.33 KB
     
 #! /usr/bin/env python
 import os
